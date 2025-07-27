@@ -1,5 +1,0 @@
-flask
-pandas
-matplotlib
-requests
-pyTelegramBotAPI
