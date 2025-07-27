@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>پروژه‌های من</title>
+</head>
+<body>
+    <h1>نمونه کارها</h1>
+    <ul>
+        {% for project in projects %}
+        <li>
+            <strong>{{ project.title }}</strong>: {{ project.desc }}
+        </li>
+        {% endfor %}
+    </ul>
+    <a href="/">بازگشت به خانه</a>
+</body>
+</html>
