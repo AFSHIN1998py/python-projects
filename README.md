@@ -17,7 +17,7 @@
 - [مشاهده کد](https://github.com/AFSHIN1998py/python-projects/blob/main/python-projects/app.py)
 
 ## مهارت‌های فنی
-- پایتون (متوسط)
+- پایتون
 - کتابخانه‌ها: Pandas, Matplotlib, Flask, Telebot
 - توسعه ربات تلگرام
 
